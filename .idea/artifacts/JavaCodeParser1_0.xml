@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="JavaCodeParser1.0">
-    <output-path>$PROJECT_DIR$/../WatchTowerGui/libs</output-path>
-    <root id="archive" name="JavaCodeParser.jar">
-      <element id="module-output" name="JavaCodeParser" />
-    </root>
-  </artifact>
-</component>

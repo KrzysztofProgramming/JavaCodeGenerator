@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ad.codeGenerator</groupId>
-    <artifactId>JavaCodeParser</artifactId>
+    <artifactId>JavaCodeGenerator</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 

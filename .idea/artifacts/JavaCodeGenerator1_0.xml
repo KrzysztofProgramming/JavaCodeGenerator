@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JavaCodeGenerator1.0">
+    <output-path>$PROJECT_DIR$/../WatchTowerGui/libs</output-path>
+    <root id="archive" name="JavaCodeGenerator.jar">
+      <element id="module-output" name="JavaCodeGenerator" />
+    </root>
+  </artifact>
+</component>
