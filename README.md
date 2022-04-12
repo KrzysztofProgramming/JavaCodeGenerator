@@ -1,4 +1,4 @@
-# JavaCodeParser
+# JavaCodeGenerator
 Simple application to generate java code from java code
 
 ## Example usage and effect:
